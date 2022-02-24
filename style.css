@@ -1,0 +1,51 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.5em;
+    background-color: #151b1e;
+    align-items: center;
+    color: white;
+}
+
+nav a {
+    margin-left: 1em;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.color_section {
+    height: 10em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 80vh;
+}
+
+h2 {
+    background-color: #151b1e;
+    color: white;
+    padding: .6em;
+    border-radius: 10px;
+    display: block;
+}
+
+.color_section button {
+    background-color: burlywood;
+    border-radius: 6px;
+    padding: 10px;
+}
+
+.color_section a {
+    text-decoration: none;
+    font-size: 1.3em;
+    color: black;
+    cursor: pointer;
+}
