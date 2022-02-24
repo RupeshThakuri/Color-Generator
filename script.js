@@ -3,7 +3,7 @@ const text = document.querySelector(".colorname");
 
 const background_color = ["red", "green", "blue", "pink", "orange", "yellow", "gray", "black", "skyblue",
     "tomato", "skyblue", "darkred", "antiquewhite", "aqua", "aquamarine", "blueviolet", "cadetblue", "brown",
-    "purple", "chocolate", "gold", "silver", "indigo"
+    "purple", "chocolate", "gold", "silver", "indigo","white"
 ];
 
 button.addEventListener("click", () => {
